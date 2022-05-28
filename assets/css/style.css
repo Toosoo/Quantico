@@ -47,7 +47,7 @@ justify-content: space-evenly;
 
 .line {
 height: 70vh;
-width: 10px;
+width: 12px;
 border-radius: 10px;
 background: #fff;
 filter: drop-shadow(0 0 5px #fff);
